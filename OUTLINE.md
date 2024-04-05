@@ -244,7 +244,7 @@
 - Para compartilhar me manda o link no twitter do seu código no Go Playground, twitter.com/ellenkorbes!
 - "@ellenkorbes Olha essa solução pro exercício Ninja nível 5, exercício 2: <link> O que vc acha?"
 
-### Na prática: exercício #1
+### Na prática: exercício #1 - OK
 
 - Esses são seus primeiros exercícios, e seus primeiros passos.
 - Completando os exercícios dessa seção, você será um ninja nível 1.
@@ -262,7 +262,7 @@
     2. Múltiplas declarações print
 - Solução: <https://play.golang.org/p/yYXnWXIQNa>
 
-### Na prática: exercício #2
+### Na prática: exercício #2 - OK
 
 - Use var para declarar três variáveis. Elas devem ter package-level scope. Não atribua valores a estas variáveis. Utilize os seguintes identificadores e tipos para estas variáveis:
     1. Identificador "x" deverá ter tipo int
@@ -273,7 +273,7 @@
     2. O compilador atribuiu valores para essas variáveis. Como esses valores se chamam?
 - Solução: <https://play.golang.org/p/pAFd-F7uGZ>
 
-### Na prática: exercício #3
+### Na prática: exercício #3 - OK
 
 - Utilizando a solução do exercício anterior:
     1. Em package-level scope, atribua os seguintes valores às variáveis:
@@ -285,7 +285,7 @@
         2. Demonstre a variável "s".
 - Solução: <https://play.golang.org/p/QFctSQB_h3>
 
-### Na prática: exercício #4
+### Na prática: exercício #4 - OK
 
 - Crie um tipo. O tipo subjacente deve ser int.
 - Crie uma variável para este tipo, com o identificador "x", utilizando a palavra-chave var.
