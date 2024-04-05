@@ -6,5 +6,6 @@ func main() {
 	//cap3.Ex001()
 	//cap3.Ex002()
 	//cap3.Ex003()
-	cap3.Ex004()
+	//cap3.Ex004()
+	cap3.Ex005()
 }
