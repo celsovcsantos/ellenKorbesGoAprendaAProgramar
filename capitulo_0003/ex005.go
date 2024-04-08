@@ -8,7 +8,7 @@ var xEx005 tipoEx005
 var yEx005 int
 
 func Ex005() {
-	fmt.Println("Exercício 004 - OK")
+	fmt.Println("Exercício 005 - OK")
 	fmt.Print("1ª questão: ")
 	fmt.Printf("x -> %v\n", xEx005)
 	fmt.Print("2ª questão: ")

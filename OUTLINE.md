@@ -437,12 +437,12 @@
 
 ## 05 – Exercícios: Ninja Nível 2
 
-### Na prática: exercício #1
+### Na prática: exercício #1 - OK
 
 - Escreva um programa que mostre um número em decimal, binário, e hexadecimal.
 - Solução: <https://play.golang.org/p/X7qm3aWSa6>
 
-### Na prática: exercício #2
+### Na prática: exercício #2 - OK
 
 - Escreva expressões utilizando os seguintes operadores, e atribua seus valores a variáveis.
   - ==
@@ -454,13 +454,13 @@
 - Demonstre estes valores.
 - Solução: <https://play.golang.org/p/BMYEch6_s8>
 
-### Na prática: exercício #3
+### Na prática: exercício #3 - OK
 
 - Crie constantes tipadas e não-tipadas.
 - Demonstre seus valores.
 - Solução: <https://play.golang.org/p/eWnKI59ual>
 
-### Na prática: exercício #4
+### Na prática: exercício #4 - OK
 
 - Crie um programa que:
   - Atribua um valor int a uma variável
@@ -469,22 +469,22 @@
   - Demonstre esta outra variável em decimal, binário e hexadecimal
 - Solução: <https://play.golang.org/p/IiwgT0v3Mp>
 
-### Na prática: exercício #5
+### Na prática: exercício #5 - OK
 
 - Crie uma variável de tipo string utilizando uma raw string literal.
 - Demonstre-a.
 - Solução: <https://play.golang.org/p/RkpqPpRWuo>
 
-### Na prática: exercício #6
+### Na prática: exercício #6 - OK
 
 - Utilizando iota, crie 4 constantes cujos valores sejam os próximos 4 anos.
 - Demonstre estes valores.
 - Solução: <https://play.golang.org/p/zRBEooRvo4>
 
-### Na prática: exercício #7
+### Na prática: exercício #7 - OK
 
 - Prova!
-- Link: <https://goo.gl/forms/fnPXMmxvKAEUD8xP2>
+- Link: <https://forms.gle/7KnotnBg3qXvGGyj7>
 - Motivação. Ninja nível 2!
 
 ## 06 – Fluxo de Controle
