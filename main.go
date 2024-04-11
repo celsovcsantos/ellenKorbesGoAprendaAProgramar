@@ -1,7 +1,7 @@
 package main
 
 import (
-	cap5 "go_aprenda-a-programar/capitulo_0005"
+	cap7 "go_aprenda-a-programar/capitulo_0007"
 )
 
 func main() {
@@ -10,5 +10,5 @@ func main() {
 	//cap3.Ex003()
 	//cap3.Ex004()
 	//cap3.Ex005()
-	cap5.Ex006()
+	cap7.Ex010()
 }
