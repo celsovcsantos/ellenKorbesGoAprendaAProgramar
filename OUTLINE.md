@@ -804,7 +804,7 @@
 
 ## 09 – Exercícios: Ninja Nível 4
 
-### Na prática: exercício #1
+### Na prática: exercício #1 - OK
 
 - Usando uma literal composta:
   - Crie um array que suporte 5 valores to tipo int
@@ -813,7 +813,7 @@
 - Utilizando format printing, demonstre o tipo do array.
 - Solução: <https://play.golang.org/p/tpWDzzlO2l>
 
-### Na prática: exercício #2
+### Na prática: exercício #2 - OK
 
 - Usando uma literal composta:
   - Crie uma slice de tipo int
@@ -822,7 +822,7 @@
 - E utilize format printing para demonstrar seu tipo.
 - Solução: <https://play.golang.org/p/ST3TKusuOd>
 
-### Na prática: exercício #3
+### Na prática: exercício #3 - OK
 
 - Utilizando como base o exercício anterior, utilize slicing para demonstrar os valores:
   - Do primeiro ao terceiro item do slice (incluindo o terceiro item!)
@@ -832,7 +832,7 @@
   - Desafio: obtenha o mesmo resultado acima utilizando a função len() para determinar o penúltimo item
 - Solução: <https://play.golang.org/p/1aPXVeR1mf>
 
-### Na prática: exercício #4
+### Na prática: exercício #4 - OK
 
 - Começando com a seguinte slice:
   - x := []int{42, 43, 44, 45, 46, 47, 48, 49, 50, 51}
@@ -844,7 +844,7 @@
 - Demonstre a slice x.
 - Solução: <https://play.golang.org/p/6WNJ0Otpy0>
 
-### Na prática: exercício #5
+### Na prática: exercício #5 - OK
 
 - Comece com essa slice:
   - x := []int{42, 43, 44, 45, 46, 47, 48, 49, 50, 51}
@@ -852,7 +852,7 @@
   - [42, 43, 44, 48, 49, 50, 51]
 - Solução: <https://play.golang.org/p/26bT-UKmJH>
 
-### Na prática: exercício #6
+### Na prática: exercício #6 - OK
 
 - Crie uma slice usando make que possa conter todos os estados do Brasil.
   - Os estados: "Acre", "Alagoas", "Amapá", "Amazonas", "Bahia", "Ceará", "Espírito Santo", "Goiás", "Maranhão", "Mato Grosso", "Mato Grosso do Sul", "Minas Gerais", "Pará", "Paraíba", "Paraná", "Pernambuco", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rondônia", "Roraima", "Santa Catarina", "São Paulo", "Sergipe", "Tocantins"
@@ -860,14 +860,14 @@
 - Demonstre todos os valores da slice *sem utilizar range.*
 - Solução: <https://play.golang.org/p/cGYBphlyCE>
 
-### Na prática: exercício #7
+### Na prática: exercício #7 - OK
 
 - Crie uma slice contendo slices de strings ([][]string). Atribua valores a este slice multi-dimensional da seguinte maneira:
   - "Nome", "Sobrenome", "Hobby favorito"
 - Inclua dados para 3 pessoas, e utilize range para demonstrar estes dados.
 - Solução: <https://play.golang.org/p/Gh81-d5tMi>
 
-### Na prática: exercício #8
+### Na prática: exercício #8 - OK
 
 - Crie um map com key tipo string e value tipo []string.
   - Key deve conter nomes no formato sobrenome_nome
@@ -875,12 +875,12 @@
 - Demonstre todos esses valores e seus índices.
 - Solução: <https://play.golang.org/p/nD3TW8VQmH>
 
-### Na prática: exercício #9
+### Na prática: exercício #9 - OK
 
 - Utilizando o exercício anterior, adicione uma entrada ao map e demonstre o map inteiro utilizando range.
 - Solução: <https://play.golang.org/p/3fcvHlt8Lm>
 
-### Na prática: exercício #10
+### Na prática: exercício #10 - OK
 
 - Utilizando o exercício anterior, remova uma entrada do map e demonstre o map inteiro utilizando range.
 - Solução:
